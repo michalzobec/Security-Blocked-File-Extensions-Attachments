@@ -80,3 +80,5 @@ Microsoft PowerPoint Add-in file | ppam |  Unwanted to save on OneDrive.
 - [Microsoft 365/Office 365: OneDrive: Zakázané typy souborů (blocked file types) na OneDrive](https://www.michalzobec.cz/microsoft-365-office-365-onedrive-zakazane-typy-souboru-blocked-file-types-na-onedrive-8199)
 - [SwiftFilter/Audit-ExternalSuspiciousAttachments.txt](https://github.com/SwiftOnSecurity/SwiftFilter/blob/master/Audit-ExternalSuspiciousAttachments.txt)
 - [Awesome Windows Domain Hardening](https://github.com/PaulSec/awesome-windows-domain-hardening#initial-foothold)
+- [CryptoBlocker - A script to deploy File Server Resource Manager and associated scripts to block infected users](https://github.com/nexxai/CryptoBlocker)
+- [Anti-Ransomware File System Resource Manager Lists](https://fsrm.experiant.ca/) - [API: Get file list](https://fsrm.experiant.ca/api/v1/get)
